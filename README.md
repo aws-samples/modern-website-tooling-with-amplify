@@ -4,8 +4,6 @@ Sample code for building and deploying modern websites using AWS Amplify, Conten
 
 Read the blog post for a detailed walk-through: [Modern Tooling for Your Website using Amplify, Contentful, and Next.js](https://aws.amazon.com/blogs/mobile/)
 
-*TODO*: update URL once the blog is published
-
 ## Prerequisites
 
 1. An AWS account.  If you don’t already have one follow the [Setting Up Your AWS Environment](https://aws.amazon.com/getting-started/guides/setup-environment/) tutorial.
